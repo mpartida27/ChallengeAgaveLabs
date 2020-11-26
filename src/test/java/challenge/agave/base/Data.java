@@ -21,7 +21,7 @@ public class Data {
 		Object[][] age = new Object[14][1];
 
 		age[0][0] = -1;
-		age[1][0] = "1";
+		age[1][0] = "uno";
 		age[2][0] = null;
 		age[3][0] = "";
 		age[4][0] = 1;
